@@ -1,4 +1,3 @@
-const { expect } = require("chai");
 const { capitalize } = require("./capitalize");
 
 test('capitalize first letter', () => {
